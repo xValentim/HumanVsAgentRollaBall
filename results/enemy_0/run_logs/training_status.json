@@ -1,0 +1,65 @@
+{
+    "Move To Target": {
+        "checkpoints": [
+            {
+                "steps": 249959,
+                "file_path": "results\\enemy_0\\Move To Target\\Move To Target-249959.onnx",
+                "reward": null,
+                "creation_time": 1710694421.582269,
+                "auxillary_file_paths": [
+                    "results\\enemy_0\\Move To Target\\Move To Target-249959.pt"
+                ]
+            },
+            {
+                "steps": 299984,
+                "file_path": "results\\enemy_0\\Move To Target\\Move To Target-299984.onnx",
+                "reward": null,
+                "creation_time": 1710694654.6848195,
+                "auxillary_file_paths": [
+                    "results\\enemy_0\\Move To Target\\Move To Target-299984.pt"
+                ]
+            },
+            {
+                "steps": 349990,
+                "file_path": "results\\enemy_0\\Move To Target\\Move To Target-349990.onnx",
+                "reward": null,
+                "creation_time": 1710694886.324587,
+                "auxillary_file_paths": [
+                    "results\\enemy_0\\Move To Target\\Move To Target-349990.pt"
+                ]
+            },
+            {
+                "steps": 399995,
+                "file_path": "results\\enemy_0\\Move To Target\\Move To Target-399995.onnx",
+                "reward": null,
+                "creation_time": 1710695117.5309463,
+                "auxillary_file_paths": [
+                    "results\\enemy_0\\Move To Target\\Move To Target-399995.pt"
+                ]
+            },
+            {
+                "steps": 407392,
+                "file_path": "results\\enemy_0\\Move To Target\\Move To Target-407392.onnx",
+                "reward": null,
+                "creation_time": 1710695153.0972457,
+                "auxillary_file_paths": [
+                    "results\\enemy_0\\Move To Target\\Move To Target-407392.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 407392,
+            "file_path": "results\\enemy_0\\Move To Target.onnx",
+            "reward": null,
+            "creation_time": 1710695153.0972457,
+            "auxillary_file_paths": [
+                "results\\enemy_0\\Move To Target\\Move To Target-407392.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}

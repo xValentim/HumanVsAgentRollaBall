@@ -1,4 +1,4 @@
-# README - HumanVsAgent
+# HumanVsAgent
 
 ## Descrição do Jogo
 

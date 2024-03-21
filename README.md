@@ -39,6 +39,10 @@ Por conta do tempo limitado, não foi possível treinar uma agente que oferecess
 - **Novos Objetos**: Adição de novos objetos e elementos interativos para aumentar a complexidade e a diversão.
 
 
+## Aluno
+
+- João Gabriel Valentim Rocha
+
 ## Citações de Assets
 
 - **Unity Engine**: Plataforma de desenvolvimento de jogos utilizada para criar o jogo.

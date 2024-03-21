@@ -4,9 +4,9 @@
 
 HumanVsAgent é um jogo desenvolvido no Unity, baseado no tutorial padrão Roll A Ball, porém com uma temática espacial. Neste jogo, o jogador assume o papel de um explorador espacial em uma missão para coletar todos os "PickUps" espalhados pela cena antes que o tempo limite de 1 minuto se esgote. No entanto, o desafio é intensificado pelo fato de que um agente treinado com o toolkit ML-Agents da Unity está competindo contra você. Além disso, se a rede neural no agente alcançar um alvo específico antes de você coletar todos os pickups, você também perderá o jogo.
 
-HumanVsAgent oferece uma experiência emocionante e desafiadora, onde o jogador precisa demonstrar habilidades de navegação ágeis e estr
+HumanVsAgent oferece uma experiência emocionante e desafiadora, onde o jogador precisa demonstrar habilidades de navegação ágeis e estratégias inteligentes para superar o adversário virtual e completar a missão com sucesso.
 
-atégias inteligentes para superar o adversário virtual e completar a missão com sucesso.
+![HumanVsAgent](thumb.png)
 
 ## Desenvolvimento
 
@@ -27,6 +27,10 @@ HumanVsAgent foi desenvolvido utilizando o Unity Engine, uma poderosa ferramenta
    - Fique atento ao tempo restante e colete todos os pickups antes que o cronômetro chegue a zero.
    - Se o agente adversário alcançar o alvo antes de você coletar todos os pickups, você perderá o jogo.
 
+## Redes Neurais
+
+Aqui no repositório, na pasta ``results`` constam os logs do treinamento dos agentes e as redes neurais treinadas. Muitas delas foram evolução de processos de treinamento, e por isso, não estão necessariamente na última geração. Além disso, o arquivo de configuração do treinamento é o ``config_enemy.yaml``. Lá podemos alterar hiper-parâmetros e a arquitetura da rede neural. 
+
 ## Melhorias Futuras
 
 Por conta do tempo limitado, não foi possível treinar uma agente que oferecesse um desafio significativo ao jogador. No entanto, a ideia é treinar um agente mais inteligente e desafiador, que possa competir de forma mais eficaz contra o jogador. Além disso, outras melhorias planejadas incluem:
@@ -38,5 +42,12 @@ Por conta do tempo limitado, não foi possível treinar uma agente que oferecess
 ## Citações de Assets
 
 - **Unity Engine**: Plataforma de desenvolvimento de jogos utilizada para criar o jogo.
+
 - **ML-Agents Toolkit**: Utilizado para implementar o agente adversário com inteligência artificial.
-- **Assets de HumanVsAgent**: Todos os assets utilizados no jogo foram criados internamente ou obtidos legalmente de fontes gratuitas ou pagas, seguindo as políticas de licenciamento e direitos autorais.
+
+- **Assets de HumanVsAgent**: Todos os assets utilizados no jogo foram criados internamente ou obtidos legalmente de fontes gratuitas, seguindo as políticas de licenciamento e direitos autorais.
+
+- **Assets de Som** :  https://www.portaldosmemes.com.br/
+
+
+- **Assets Sci-Fi** : https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
